@@ -1,2 +1,4 @@
-# Mini-Games-in-JavaScript-Bulls-and-Cows-1124-Logic-Challenge
- Two logic games built with JavaScript: Bulls and Cows (color-based guessing game) and 2048 (classic tile merging puzzle). Developed with a focus on algorithmic thinking, interactive design, and clean code structure.
+Hello!!
+I created these games – Bulls and Cows and 2048 – as part of a JavaScript project together with my friend.
+We both really enjoyed creating them and thinking through how to solve the algorithmic challenges.
+Good luck, and have fun!
